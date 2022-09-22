@@ -1,0 +1,40 @@
+.inicial-div {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+}
+
+.wrap-principal {
+    width: 450px;
+    height: 382px;
+}
+
+.heading-1 {
+    color: #FFFFFF;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 172px;
+    text-transform: uppercase;
+    padding: 25px 0;
+}
+
+.heading-2 {
+    color: #d0d6f9;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-size: 28px;
+    letter-spacing: 4.75px;
+    text-transform: uppercase;
+}
+
+.paragraph-1 {
+    color: #D0D6F9;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 32px;
+}
